@@ -1,0 +1,12 @@
+C:\Private\MageDefenderDeluxe\LevelSettings\bin\x86\Release\LevelSettings.dll
+C:\Private\MageDefenderDeluxe\LevelSettings\bin\x86\Release\LevelSettings.pdb
+C:\Private\MageDefenderDeluxe\LevelSettings\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Private\MageDefenderDeluxe\LevelSettings\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Private\MageDefenderDeluxe\LevelSettings\obj\x86\Release\LevelSettings.dll
+C:\Private\MageDefenderDeluxe\LevelSettings\obj\x86\Release\LevelSettings.pdb
+C:\Private\Programming Projects\MD_Backup\LevelSettings\bin\x86\Release\LevelSettings.dll
+C:\Private\Programming Projects\MD_Backup\LevelSettings\bin\x86\Release\LevelSettings.pdb
+C:\Private\Programming Projects\MD_Backup\LevelSettings\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Private\Programming Projects\MD_Backup\LevelSettings\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Private\Programming Projects\MD_Backup\LevelSettings\obj\x86\Release\LevelSettings.dll
+C:\Private\Programming Projects\MD_Backup\LevelSettings\obj\x86\Release\LevelSettings.pdb

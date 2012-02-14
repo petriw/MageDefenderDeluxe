@@ -1,0 +1,14 @@
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb

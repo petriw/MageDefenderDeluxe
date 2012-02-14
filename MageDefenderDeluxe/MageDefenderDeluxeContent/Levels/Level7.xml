@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+	<Asset Type="MageDefenderDeluxe.LevelSettings.Level">
+		<LevelID>7</LevelID>
+		<SpawnEnemies>Ghost</SpawnEnemies>
+		<NumEnemies>30</NumEnemies>
+		<IsBoss>false</IsBoss>
+		<BossCodeName>None</BossCodeName>
+	</Asset>
+</XnaContent>

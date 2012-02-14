@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+	<Asset Type="MageDefenderDeluxe.LevelSettings.BossBehaviour">
+		<BossName>Gooey King!</BossName>
+		<MoveStyle>Sin</MoveStyle>
+		<SpitEnemies>true</SpitEnemies>
+		<SpitWhatEnemy>Ghost</SpitWhatEnemy>
+		<Animated>false</Animated>
+		<ModelID>2</ModelID>
+		<Hp>500</Hp>
+		<Radius>100</Radius>
+		<ParticleID>0</ParticleID>
+		<Loot>1000</Loot>
+		<Xp>500</Xp>
+		<Score>1000</Score>
+	</Asset>
+</XnaContent>
+

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2010-09-15T11:23:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>smoke.png</Source>
+      <Name>smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\smoke.xnb</Output>
+      <Time>2010-09-15T11:23:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fire.png</Source>
+      <Name>fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="TextureFormat">DxtCompressed</Data>
+        <Data Key="PremultiplyAlpha">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\fire.xnb</Output>
+      <Time>2010-09-15T11:23:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2010-09-15T11:23:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.x</Source>
+      <Name>grid</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\grid.xnb</Output>
+      <Time>2010-09-15T11:23:08+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\grid_0.xml</Key>
+        <Value>2011-04-12T01:25:18.0515024+02:00</Value>
+      </Dependency>
+      <Request>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\checker_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ParticleEffect.fx</Source>
+      <Name>ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\ParticleEffect.xnb</Output>
+      <Time>2010-09-15T11:23:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>grid.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\grid_0.xml</Output>
+      <Time>2010-09-15T11:23:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>checker.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\checker_0.xnb</Output>
+      <Time>2010-09-15T11:23:08+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-12-11T23:45:25.1423018+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,44 @@
+﻿<Window x:Class="LevelEditor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600" Width="800">
+    <Canvas>
+    	<Image Source="PressStartLoop.jpg" Stretch="Fill" Height="588" Width="784"/>
+    	<Image Height="284.25" Canvas.Left="-9" Source="Start_Title.png" Stretch="Fill" Canvas.Top="-146.25" Width="505.333"/>
+    	<Image Height="209.25" Canvas.Left="412" Source="Start_Mage.png" Stretch="Fill" Canvas.Top="352.75" Width="372"/>
+    	<Rectangle Fill="#7E000000" Height="374" Canvas.Left="17" Stroke="White" Canvas.Top="180" Width="652" RadiusX="10" RadiusY="10" StrokeThickness="2">
+    		<Rectangle.Effect>
+    			<BlurEffect Radius="3"/>
+    		</Rectangle.Effect>
+    	</Rectangle>
+    	<TextBlock Height="52" Canvas.Left="30" TextWrapping="Wrap" Canvas.Top="128" Width="256" Foreground="#FFD6D6D6" FontSize="32" FontFamily="Kristen ITC" RenderTransformOrigin="0.691,-7.692"><Run Language="nb-no" Text="Level editor"/></TextBlock>
+    	<TextBlock Height="35" Canvas.Left="30" TextWrapping="Wrap" Canvas.Top="196" Width="108" Foreground="#FFD6D6D6" FontSize="21.333" FontFamily="Kristen ITC" RenderTransformOrigin="0.691,-7.692"><Run Language="nb-no" Text="Level ID:"/></TextBlock>
+    	<TextBlock Height="35" Canvas.Left="30" TextWrapping="Wrap" Canvas.Top="235" Width="233" Foreground="#FFD6D6D6" FontSize="21.333" FontFamily="Kristen ITC" RenderTransformOrigin="0.691,-7.692"><Run Language="nb-no" Text="Number of enemies:"/></TextBlock>
+    	<TextBlock Height="35" Canvas.Left="30" TextWrapping="Wrap" Canvas.Top="363" Width="233" Foreground="#FFD6D6D6" FontSize="21.333" FontFamily="Kristen ITC" RenderTransformOrigin="0.691,-7.692"><Run Language="nb-no" Text="Enemies to spawn:"/></TextBlock>
+        <CheckBox x:Name="cbIsBoss" Content="Yes" Height="33" Canvas.Left="157" Canvas.Top="277" Width="70" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro" Checked="cbIsBoss_Checked" />
+    	<CheckBox x:Name="cbSlime1" Content="Slime1" Height="33" Canvas.Left="30" Canvas.Top="402" Width="126" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro"/>
+    	<CheckBox x:Name="cbSlime2" Content="Slime2" Height="33" Canvas.Left="30" Canvas.Top="435" Width="126" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro"/>
+    	<CheckBox x:Name="cbSlime3" Content="Slime3" Height="33" Canvas.Left="30" Canvas.Top="468" Width="126" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro"/>
+    	<CheckBox x:Name="cbSlime4" Content="Slime4" Height="33" Canvas.Left="30" Canvas.Top="501" Width="126" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro"/>
+    	<CheckBox x:Name="cbZombie" Content="Zombie" Height="33" Canvas.Left="137" Canvas.Top="402" Width="126" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro"/>
+    	<CheckBox x:Name="cbGhost" Content="Ghost" Height="33" Canvas.Left="137" Canvas.Top="435" Width="126" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro"/>
+    	<CheckBox x:Name="cbSkeleton" Content="Skeleton" Height="33" Canvas.Left="137" Canvas.Top="468" Width="126" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro"/>
+        <CheckBox x:Name="cbBoss1" Content="Boss" Height="33" Canvas.Left="142" Canvas.Top="505" Width="126" FontFamily="Kristen ITC" FontSize="21.333" Background="White" Foreground="Gainsboro" />
+    	<TextBox x:Name="tbId" Height="35" Canvas.Left="142" TextWrapping="Wrap" Canvas.Top="196" Width="311" Background="#5A313131" Foreground="#FFCECECE" FontFamily="Kristen ITC" FontSize="21.333" Text="1"/>
+        <TextBox x:Name="tbNumEnemies" Height="35" Canvas.Left="248" TextWrapping="Wrap" Text="25" Canvas.Top="235" Width="205" Background="#5A313131" Foreground="#FFCECECE" FontFamily="Kristen ITC" FontSize="21.333"/>
+    	<Button x:Name="btnSave" Content="Save" Height="33" Canvas.Left="555" Canvas.Top="511" Width="103" FontFamily="Kristen ITC" FontSize="21.333" Foreground="White" BorderBrush="#FFB1B1B1" Click="btnSave_Click">
+    		<Button.Background>
+    			<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+    				<GradientStop Color="#FFF3F3F3" Offset="0"/>
+    				<GradientStop Color="#FF7C0000"/>
+    				<GradientStop Color="#FFD40000" Offset="0.349"/>
+    				<GradientStop Color="#FF5A0000" Offset="0.466"/>
+    			</LinearGradientBrush>
+    		</Button.Background>
+    	</Button>
+    	<TextBlock Height="35" Canvas.Left="32" TextWrapping="Wrap" Canvas.Top="316" Width="121" Foreground="#FFD6D6D6" FontSize="21.333" FontFamily="Kristen ITC" RenderTransformOrigin="0.691,-7.692"><Run Language="nb-no" Text="Boss Code:"/></TextBlock>
+    	<TextBox x:Name="tbBossCodeFile" Height="35" Canvas.Left="157" TextWrapping="Wrap" Text="GooeyKing" Canvas.Top="316" Width="174" Background="#5A313131" Foreground="#FFCECECE" FontFamily="Kristen ITC" FontSize="21.333" RenderTransformOrigin="-0.293,1.457"/>
+    	<TextBlock Height="35" Canvas.Left="32" TextWrapping="Wrap" Canvas.Top="277" Width="104" Foreground="#FFD6D6D6" FontSize="21.333" FontFamily="Kristen ITC" RenderTransformOrigin="0.691,-7.692"><Run Language="nb-no" Text="Boss?"/></TextBlock>
+    	<TextBlock Height="35" Canvas.Left="335" TextWrapping="Wrap" Canvas.Top="319" Width="104" Foreground="#FFD6D6D6" FontSize="21.333" FontFamily="Kristen ITC" RenderTransformOrigin="0.691,-7.692"><Run Language="nb-no" Text=".xml"/></TextBlock>
+    </Canvas>
+</Window>

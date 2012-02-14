@@ -1,0 +1,13 @@
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\explosion.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\smoke.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\fire.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\font.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\grid.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\ParticleEffect.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Content\checker_0.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Particle3DSample.exe
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\bin\x86\Debug\Particle3DSample.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\obj\x86\Debug\Particle3DSample.exe
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\Particles3DSample_4_0\Particle3DSample\obj\x86\Debug\Particle3DSample.pdb

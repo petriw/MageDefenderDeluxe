@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>dude.fbx</Source>
+      <Name>dude</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\dude.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\dude_0.xml</Key>
+        <Value>2011-04-08T01:22:07.4714709+02:00</Value>
+      </Dependency>
+      <Request>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\head_0.xnb</Request>
+      <Request>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\jacket_0.xnb</Request>
+      <Request>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\pants_0.xnb</Request>
+      <Request>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\upBodyC_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>dude.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\dude_0.xml</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>head.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\head_0.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>jacket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\jacket_0.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pants.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\pants_0.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>upBodyC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\upBodyC_0.xnb</Output>
+      <Time>2010-09-15T16:11:00+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\Content\</RootDirectory>
+      <LoggerRootDirectory>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2011-04-08T01:22:03.1622245+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-12-11T23:45:25.1423018+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

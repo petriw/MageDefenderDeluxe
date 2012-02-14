@@ -1,0 +1,26 @@
+C:\Private\MageDefenderDeluxe\BossEditor\bin\Release\BossEditor.exe
+C:\Private\MageDefenderDeluxe\BossEditor\bin\Release\BossEditor.pdb
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\MainWindow.baml
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\MainWindow.g.cs
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\App.g.cs
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\BossEditor_MarkupCompile.cache
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\BossEditor.g.resources
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\BossEditor.Properties.Resources.resources
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\BossEditor.exe
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Release\BossEditor.pdb
+C:\Private\Programming Projects\MD_Backup\BossEditor\bin\Release\BossEditor.exe
+C:\Private\Programming Projects\MD_Backup\BossEditor\bin\Release\BossEditor.pdb
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\MainWindow.baml
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\MainWindow.g.cs
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\App.g.cs
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\BossEditor_MarkupCompile.cache
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\BossEditor.g.resources
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\BossEditor.Properties.Resources.resources
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\BossEditor.exe
+C:\Private\Programming Projects\MD_Backup\BossEditor\obj\x86\Release\BossEditor.pdb

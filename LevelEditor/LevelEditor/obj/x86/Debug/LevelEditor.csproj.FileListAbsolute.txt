@@ -1,0 +1,30 @@
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\bin\Debug\LevelEditor.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\MainWindow.baml
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\MainWindow.g.cs
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\App.g.cs
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor_MarkupCompile.cache
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.g.resources
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Properties.Resources.resources
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\Simple Styles.baml
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\App.baml
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\bin\Debug\LevelEditor.exe
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\bin\Debug\LevelEditor.pdb
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\MainWindow.baml
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\Simple Styles.baml
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\App.baml
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\App.g.cs
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor_MarkupCompile.cache
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.g.resources
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.Properties.Resources.resources
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.exe
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Debug\LevelEditor.pdb

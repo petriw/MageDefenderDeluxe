@@ -1,0 +1,13 @@
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\dude.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\head_0.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\jacket_0.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\pants_0.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\Content\upBodyC_0.xnb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\SkinningSample.exe
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\SkinningSample.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\SkinnedModel.dll
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\bin\x86\Debug\SkinnedModel.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\obj\x86\Debug\SkinningSample.exe
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\SkinningSample_4_0\SkinningSample\obj\x86\Debug\SkinningSample.pdb

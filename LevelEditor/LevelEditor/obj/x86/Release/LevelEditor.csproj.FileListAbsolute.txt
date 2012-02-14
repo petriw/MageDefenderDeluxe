@@ -1,0 +1,30 @@
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\bin\Release\LevelEditor.pdb
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\MainWindow.baml
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\Simple Styles.baml
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\App.baml
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\MainWindow.g.cs
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\App.g.cs
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor_MarkupCompile.cache
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor.g.resources
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor.Properties.Resources.resources
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor.exe
+C:\Private\MageDefenderDeluxe\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor.pdb
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\bin\Release\LevelEditor.exe
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\bin\Release\LevelEditor.pdb
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\MainWindow.baml
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\Simple Styles.baml
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\App.baml
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\MainWindow.g.cs
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\App.g.cs
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor_MarkupCompile.cache
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor.g.resources
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor.Properties.Resources.resources
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor.exe
+C:\Private\Programming Projects\MD_Backup\LevelEditor\LevelEditor\obj\x86\Release\LevelEditor.pdb

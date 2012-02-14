@@ -1,0 +1,6 @@
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModel\bin\Xbox 360\Debug\SkinnedModel.dll
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModel\bin\Xbox 360\Debug\SkinnedModel.pdb
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModel\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModel\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.dll
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinnedModel\obj\Xbox 360\Debug\SkinnedModel.pdb

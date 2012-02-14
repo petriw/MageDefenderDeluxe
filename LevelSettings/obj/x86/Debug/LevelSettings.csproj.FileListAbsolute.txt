@@ -1,0 +1,12 @@
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelSettings\bin\x86\Debug\LevelSettings.dll
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelSettings\bin\x86\Debug\LevelSettings.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelSettings\obj\x86\Debug\LevelSettings.dll
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\LevelSettings\obj\x86\Debug\LevelSettings.pdb
+C:\Private\MageDefenderDeluxe\LevelSettings\bin\x86\Debug\LevelSettings.dll
+C:\Private\MageDefenderDeluxe\LevelSettings\bin\x86\Debug\LevelSettings.pdb
+C:\Private\MageDefenderDeluxe\LevelSettings\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Private\MageDefenderDeluxe\LevelSettings\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Private\MageDefenderDeluxe\LevelSettings\obj\x86\Debug\LevelSettings.dll
+C:\Private\MageDefenderDeluxe\LevelSettings\obj\x86\Debug\LevelSettings.pdb

@@ -1,0 +1,26 @@
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\bin\Debug\BossEditor.exe
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\bin\Debug\BossEditor.pdb
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\MainWindow.baml
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\MainWindow.g.cs
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\App.g.cs
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor_MarkupCompile.cache
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor.g.resources
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor.Properties.Resources.resources
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor.exe
+G:\Programming\Dark Codex Studios\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor.pdb
+C:\Private\MageDefenderDeluxe\BossEditor\bin\Debug\BossEditor.exe
+C:\Private\MageDefenderDeluxe\BossEditor\bin\Debug\BossEditor.pdb
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\MainWindow.baml
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\MainWindow.g.cs
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\App.g.cs
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor_MarkupCompile.cache
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor.g.resources
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor.Properties.Resources.resources
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor.exe
+C:\Private\MageDefenderDeluxe\BossEditor\obj\x86\Debug\BossEditor.pdb

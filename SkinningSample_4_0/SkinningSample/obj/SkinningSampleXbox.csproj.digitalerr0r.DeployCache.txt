@@ -1,0 +1,21 @@
+f8ea48c00aa449ec94b4d52199192131
+0
+digitalerr0r
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\bin\Xbox 360\Debug\
+129465932420000000
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\SkinningSample.png
+2010-09-15T14:11:00.0000000Z
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\bin\Xbox 360\Debug\SkinnedModel.dll
+2011-04-06T19:50:58.2294347Z
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\bin\Xbox 360\Debug\SkinningSample.exe
+2011-04-06T19:51:30.4436206Z
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\bin\Xbox 360\Debug\Content\dude.xnb
+2011-04-06T19:51:27.5454122Z
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\bin\Xbox 360\Debug\Content\head_0.xnb
+2011-04-06T19:51:28.2786135Z
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\bin\Xbox 360\Debug\Content\jacket_0.xnb
+2011-04-06T19:51:28.9338147Z
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\bin\Xbox 360\Debug\Content\pants_0.xnb
+2011-04-06T19:51:29.5734158Z
+G:\Programming\Dark Codex Studios\MageDefenderXNA40\SkinningSample_4_0\SkinningSample\bin\Xbox 360\Debug\Content\upBodyC_0.xnb
+2011-04-06T19:51:30.2910171Z
